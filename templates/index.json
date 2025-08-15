@@ -417,6 +417,9 @@
         "price_eT4cdf",
         "button_MXXrL8"
       ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.lists-wrapper .list-item:nth-child(2) {order: 2; }}"
+      ],
       "name": "Product with List",
       "settings": {
         "product": "sri-dryq",
@@ -612,7 +615,11 @@
         "heading_AMcY4N",
         "text_TBXL8B"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".rich-text__heading {font-size: 36px; color: #c19b61;}",
+        ".rich-text__text {font-size: 16px;}",
+        "@media screen and (max-width: 750px) {.rich-text__text {font-size: 14px; }}"
+      ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "content_style": "inline",
@@ -673,6 +680,11 @@
       "block_order": [
         "heading_EPXyB3",
         "text_YbCXWh"
+      ],
+      "custom_css": [
+        ".rich-text__heading {font-size: 36px; color: #c19b61;}",
+        ".rich-text__text {font-size: 16px;}",
+        "@media screen and (max-width: 750px){.rich-text__text {font-size: 14px;} }"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {

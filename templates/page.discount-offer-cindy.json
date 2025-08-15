@@ -116,10 +116,7 @@
         "html_pbGHCL",
         "sale_countdown_timer_7d9GrA"
       ],
-      "custom_css": [
-        ".hero-banner {padding-top: 100px;}",
-        ".herobanner__text em {color: #b87664;}"
-      ],
+      "custom_css": [],
       "name": "Hero Banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/hero_banner.png",
@@ -137,28 +134,31 @@
         "background_overlay": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 100%)"
       }
     },
-    "featured_product2_exUgjc": {
+    "featured_product2_m7mnTj": {
       "type": "featured-product2",
       "blocks": {
-        "gallery_block_tU7Jgj": {
+        "gallery_block_kLdHiW": {
           "type": "gallery_block",
           "settings": {}
         },
-        "title_WVdjL6": {
+        "title_b3WJdL": {
           "type": "title",
           "settings": {
             "title": "",
-            "heading_size": "h1"
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/best_hair_dryer.png",
+            "image_width": "142px",
+            "image_height": "142px"
           }
         },
-        "text_RYfTrH": {
+        "text_6z7pfQ": {
           "type": "text",
           "settings": {
             "text": "<p>Say <strong>goodbye to frizz<\/strong> with the <strong>advanced <\/strong>SRI DryQ.<\/p>",
             "text_style": "body"
           }
         },
-        "text_i6izYx": {
+        "text_WDf7e9": {
           "type": "text",
           "settings": {
             "text": "<ul><li>Intelligent heat control dries hair faster with optimal airflow speeds.<\/li><li>Negative ions to support frizz-free styling<\/li><li>Infrared light therapy strengthens weak, brittle hair and stimulates growth.<\/li><li>Features 4 modes, 3 speed settings, and a memory function.<\/li><li>Lightweight, compact, and quiet, making it easy to take anywhere<\/li><li>Easy-snap magnetic attachments<\/li><\/ul>",
@@ -167,10 +167,13 @@
         }
       },
       "block_order": [
-        "gallery_block_tU7Jgj",
-        "title_WVdjL6",
-        "text_RYfTrH",
-        "text_i6izYx"
+        "gallery_block_kLdHiW",
+        "title_b3WJdL",
+        "text_6z7pfQ",
+        "text_WDf7e9"
+      ],
+      "custom_css": [
+        ".product__info-wrapper {padding-left: 0;}"
       ],
       "name": "Featured product 2",
       "settings": {
@@ -340,6 +343,9 @@
         "compare_at_price_dwjhLg",
         "price_fJjzJb",
         "button_8Uybm3"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.lists-wrapper .list-item:nth-child(2) {order: 2; }}"
       ],
       "name": "Product with List",
       "settings": {
@@ -536,6 +542,11 @@
         "heading_AjW7Bp",
         "text_tKMVB7"
       ],
+      "custom_css": [
+        ".rich-text__heading {font-size: 36px; color: #c19b61;}",
+        ".rich-text__text {font-size: 16px;}",
+        "@media screen and (max-width: 750px) {.rich-text__text {font-size: 14px; }}"
+      ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "content_style": "inline",
@@ -596,6 +607,11 @@
       "block_order": [
         "heading_PPHtCg",
         "text_g74fEq"
+      ],
+      "custom_css": [
+        ".rich-text__heading {font-size: 36px; color: #c19b61;}",
+        ".rich-text__text {font-size: 16px;}",
+        "@media screen and (max-width: 750px){.rich-text__text {font-size: 14px;} }"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -921,7 +937,7 @@
   "order": [
     "main",
     "hero_banner_WPNkeJ",
-    "featured_product2_exUgjc",
+    "featured_product2_m7mnTj",
     "product_with_list_GGnNc6",
     "rolling_text_images_eV94Ad",
     "rich_text_iQEyX3",

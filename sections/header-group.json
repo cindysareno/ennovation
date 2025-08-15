@@ -16,6 +16,10 @@
       "block_order": [
         "announcement-bar-0"
       ],
+      "custom_css": [
+        ".announcement-bar__message {letter-spacing: -1%;}",
+        "@media screen and (max-width: 430px) {.announcement-bar__message {font-size: 13px; }}"
+      ],
       "settings": {
         "auto_rotate": false,
         "change_slides_speed": 5,
