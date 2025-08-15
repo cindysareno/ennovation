@@ -1,0 +1,125 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "multicolumn_z3DrjN": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_KPpHwk": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/warranty.png",
+            "title": "<strong>1-Year Warranty<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UxUDJe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/free-shipping.png",
+            "title": "<strong>Free Shipping<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CTHjXQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/money-back.png",
+            "title": "<strong>60-Day Money Back Guarantee<\/strong>",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_KPpHwk",
+        "column_UxUDJe",
+        "column_CTHjXQ"
+      ],
+      "custom_css": [
+        ".grid--3-col-desktop .grid__item {width: 100%; max-width: 207px;}",
+        ".multicolumn-card__info {padding: 0;}",
+        ".multicolumn-card__info h3 {font-size: 18px; line-height: 23.8px; min-width: fit-content; letter-spacing: -1px; text-align: center;}",
+        "@media screen and (min-width: 750px) {.grid--3-col-desktop .grid__item {width: fit-content; max-width: 37%; } .multicolumn-card__info h3 {text-align: left; }}"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_max_width": 85,
+        "image_max_width_mobile": 94,
+        "image_width": "half",
+        "image_ratio": "square",
+        "button_label": "",
+        "button_link": "",
+        "card_style": "inline",
+        "card_grid_gap": 30,
+        "card_grid_gap_mobile": 10,
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "scheme-5",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "image_Xg38XJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/skin-research-institute-logo-white-512px.png",
+            "image_width": 120,
+            "alignment": ""
+          }
+        },
+        "link_list_wzTixG": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu",
+            "menu": "main-menu"
+          }
+        },
+        "socials_QbUFyf": {
+          "type": "socials",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "image_Xg38XJ",
+        "link_list_wzTixG",
+        "socials_QbUFyf"
+      ],
+      "custom_css": [
+        ".footer__content-bottom {padding-top: 0; border: 0;}"
+      ],
+      "settings": {
+        "color_scheme": "scheme-5",
+        "copyright_text": "Skin Research Institute. [date] All rights reserved.",
+        "newsletter_enable": false,
+        "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
+        "show_social": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "multicolumn_z3DrjN",
+    "footer"
+  ]
+}

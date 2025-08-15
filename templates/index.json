@@ -1,0 +1,1061 @@
+{
+  "sections": {
+    "hero_banner_frhFjr": {
+      "type": "hero-banner",
+      "blocks": {
+        "html_DN8XTW": {
+          "type": "html",
+          "settings": {
+            "text": "<b>AWESOME!<\/b>",
+            "color": "#181b22",
+            "font_size": 40,
+            "font_size_mobile": 40,
+            "line_height": "120%",
+            "font_style": "none",
+            "margin_bottom": 16,
+            "margin_bottom_mobile": 31,
+            "image_width": 85
+          }
+        },
+        "html_F3GNfK": {
+          "type": "html",
+          "settings": {
+            "text": "<em style=\"color: #B87664;\"><strong>Your discount of $67 off<\/strong><\/em> has been automatically applied. ",
+            "color": "#333333",
+            "font_size": 24,
+            "font_size_mobile": 24,
+            "line_height": "120%",
+            "font_style": "none",
+            "margin_bottom": 19,
+            "margin_bottom_mobile": 19,
+            "image_width": 85
+          }
+        },
+        "buttons_nV9NQp": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Order Now",
+            "button_link_1": "#",
+            "button_style_secondary_1": false,
+            "button_label_2": "Pay with [paypal]",
+            "button_link_2": "#",
+            "button_style_secondary_2": false
+          }
+        },
+        "html_gATfcV": {
+          "type": "html",
+          "settings": {
+            "text": "or 4 interest- free payments of <strong>$57.60 <\/strong>with [inline-logo]",
+            "color": "#333333",
+            "font_size": 10,
+            "font_size_mobile": 10,
+            "line_height": "14px",
+            "font_style": "none",
+            "margin_bottom": 18,
+            "margin_bottom_mobile": 25,
+            "inline_logo": "shopify:\/\/shop_images\/afterpay-logo_839e6d04-d54b-4e97-833e-a22e1f4dda53.png",
+            "image_width": 85
+          }
+        },
+        "sale_countdown_timer_CxTApi": {
+          "type": "sale_countdown_timer",
+          "settings": {
+            "show_top_border": true,
+            "end_date": "2026-02-14",
+            "end_time": "23:59",
+            "show_days": true,
+            "show_hours": true,
+            "show_minutes": true,
+            "show_seconds": true,
+            "title": "Valentine’s Day Sale Ends at 12PM Feb 14th 2025",
+            "subtitle": "",
+            "days_label": "Days",
+            "hours_label": "Hours",
+            "minutes_label": "Minutes",
+            "seconds_label": "Seconds",
+            "expired_message": "Sale has ended",
+            "card_background": "rgba(0,0,0,0)",
+            "border_radius": 0,
+            "padding_top": 20,
+            "padding_bottom": 0,
+            "padding_top_mobile": 25,
+            "padding_bottom_mobile": 0,
+            "title_color": "#333333",
+            "title_size": 16,
+            "subtitle_color": "#666666",
+            "subtitle_size": 16,
+            "expired_color": "#d32f2f",
+            "expired_size": 18,
+            "unit_background": "#656566",
+            "unit_border_color": "#656566",
+            "unit_border_width": 0,
+            "unit_border_radius": 6,
+            "unit_padding_top_bottom": 10,
+            "unit_padding_left_right": 5,
+            "unit_min_width": 60,
+            "unit_spacing": 11,
+            "number_color": "#ffffff",
+            "number_size": 24,
+            "label_color": "#ffffff",
+            "label_size": 10
+          }
+        }
+      },
+      "block_order": [
+        "html_DN8XTW",
+        "html_F3GNfK",
+        "buttons_nV9NQp",
+        "html_gATfcV",
+        "sale_countdown_timer_CxTApi"
+      ],
+      "custom_css": [],
+      "name": "Hero Banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/hero_banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "scheme-de92810c-7341-46ea-8587-20ffc87b2cdd",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true,
+        "show_overlay": true,
+        "background_overlay": "linear-gradient(0deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0) 100%)"
+      }
+    },
+    "featured_product2_L8E8KC": {
+      "type": "featured-product2",
+      "blocks": {
+        "gallery_block_VwnqHH": {
+          "type": "gallery_block",
+          "settings": {}
+        },
+        "title_t7B7qV": {
+          "type": "title",
+          "settings": {
+            "title": "",
+            "heading_size": "h1",
+            "image": "shopify:\/\/shop_images\/best_hair_dryer.png",
+            "image_width": "142px",
+            "image_height": "142px"
+          }
+        },
+        "text_YaYNgJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Say <strong>goodbye to frizz<\/strong> with the <strong>advanced <\/strong>SRI DryQ.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "text_VG63at": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Intelligent heat control dries hair faster with optimal airflow speeds.<\/li><li>Negative ions to support frizz-free styling<\/li><li>Infrared light therapy strengthens weak, brittle hair and stimulates growth.<\/li><li>Features 4 modes, 3 speed settings, and a memory function.<\/li><li>Lightweight, compact, and quiet, making it easy to take anywhere<\/li><li>Easy-snap magnetic attachments<\/li><\/ul>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "gallery_block_VwnqHH",
+        "title_t7B7qV",
+        "text_YaYNgJ",
+        "text_VG63at"
+      ],
+      "custom_css": [
+        ".product__info-wrapper {padding-left: 0;}"
+      ],
+      "name": "Featured product 2",
+      "settings": {
+        "product": "sri-dryq",
+        "color_scheme": "scheme-3",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17552781723dcce2e9": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_20817e4_axrQic": {
+          "type": "ai_gen_block_20817e4",
+          "settings": {
+            "featured_product": "sri-dryq",
+            "section_gap": 40,
+            "section_padding": 20,
+            "info_gap": 20,
+            "image_aspect_ratio": "1\/1",
+            "image_border_radius": 8,
+            "controls_gap": 16,
+            "enable_loop": true,
+            "thumbnail_position": "vertical_right",
+            "thumbnail_size": 80,
+            "thumbnail_gap": 8,
+            "thumbnail_border_radius": 4,
+            "visible_thumbnails": 4,
+            "vertical_thumbnail_width": 120,
+            "thumbnail_active_border": "#000000",
+            "arrow_size": 40,
+            "arrow_border_radius": 4,
+            "arrow_background": "#ffffff",
+            "arrow_color": "#000000",
+            "arrow_border_color": "#cccccc",
+            "arrow_hover_background": "#f5f5f5",
+            "arrow_hover_border": "#999999",
+            "thumbnail_arrow_size": 28,
+            "thumbnail_arrow_border_radius": 4,
+            "thumbnail_arrow_background": "#ffffff",
+            "thumbnail_arrow_color": "#000000",
+            "thumbnail_arrow_border_color": "#cccccc",
+            "thumbnail_arrow_hover_background": "#f5f5f5",
+            "thumbnail_arrow_hover_border": "#999999",
+            "title_size": 28,
+            "title_weight": "600",
+            "title_color": "#000000",
+            "price_size": 20,
+            "price_weight": "600",
+            "price_color": "#000000",
+            "show_description": true,
+            "description_length": 200,
+            "description_size": 16,
+            "description_color": "#666666",
+            "variant_label_color": "#000000",
+            "variant_background": "#ffffff",
+            "variant_text_color": "#000000",
+            "variant_border_color": "#cccccc",
+            "variant_hover_background": "#f5f5f5",
+            "variant_hover_border": "#999999",
+            "variant_selected_background": "#000000",
+            "variant_selected_text": "#ffffff",
+            "variant_selected_border": "#000000",
+            "variant_border_radius": 4,
+            "add_to_cart_text": "Add to cart",
+            "sold_out_text": "Sold out",
+            "button_background": "#000000",
+            "button_text_color": "#ffffff",
+            "button_hover_background": "#333333",
+            "button_padding": 16,
+            "button_border_radius": 4,
+            "button_font_size": 16,
+            "mobile_gap": 24,
+            "mobile_padding": 16,
+            "mobile_title_size": 24,
+            "mobile_price_size": 18,
+            "mobile_description_size": 14,
+            "mobile_thumbnail_size": 60,
+            "mobile_arrow_size": 32,
+            "mobile_thumbnail_arrow_size": 24
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_20817e4_axrQic"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "product_with_list_ayqNUP": {
+      "type": "product-with-list",
+      "blocks": {
+        "text_with_image_7FGV4q": {
+          "type": "text_with_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-amazon.svg",
+            "text": "<p>Fulfilled by Amazon <\/p>",
+            "image_width": "30px",
+            "image_height": "30px",
+            "image_width_mobile": "30px",
+            "image_height_mobile": "30px",
+            "color": "#c0c0c0",
+            "font_size": 17,
+            "font_size_mobile": 16,
+            "line_height": "122%",
+            "font_weight": "100"
+          }
+        },
+        "text_with_image_gfbddU": {
+          "type": "text_with_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-shipping.svg",
+            "text": "<p>Free Shipping <\/p>",
+            "image_width": "30px",
+            "image_height": "30px",
+            "image_width_mobile": "30px",
+            "image_height_mobile": "30px",
+            "color": "#c0c0c0",
+            "font_size": 17,
+            "font_size_mobile": 16,
+            "line_height": "122%",
+            "font_weight": "100"
+          }
+        },
+        "text_with_image_HBTneq": {
+          "type": "text_with_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-money-back-guarantee.svg",
+            "text": "<p>Try it for 60  days—money-back guarantee <\/p>",
+            "image_width": "30px",
+            "image_height": "30px",
+            "image_width_mobile": "30px",
+            "image_height_mobile": "30px",
+            "color": "#c0c0c0",
+            "font_size": 17,
+            "font_size_mobile": 16,
+            "line_height": "122%",
+            "font_weight": "100"
+          }
+        },
+        "text_with_image_VrNf8w": {
+          "type": "text_with_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-secure-checkout.svg",
+            "text": "<p>Secure Checkout <\/p>",
+            "image_width": "30px",
+            "image_height": "30px",
+            "image_width_mobile": "30px",
+            "image_height_mobile": "30px",
+            "color": "#c0c0c0",
+            "font_size": 17,
+            "font_size_mobile": 16,
+            "line_height": "23.8px",
+            "font_weight": "100"
+          }
+        },
+        "text_with_image_WHMjqX": {
+          "type": "text_with_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/icon-warranty.svg",
+            "text": "<p>1-year Warranty <\/p>",
+            "image_width": "30px",
+            "image_height": "30px",
+            "image_width_mobile": "30px",
+            "image_height_mobile": "30px",
+            "color": "#c0c0c0",
+            "font_size": 17,
+            "font_size_mobile": 16,
+            "line_height": "122%",
+            "font_weight": "100"
+          }
+        },
+        "html_wiDyQ6": {
+          "type": "html",
+          "settings": {
+            "text": "Limited Time \n<br><b style=\"font-weight: 600;\">VALENTINE’S DAY<\/b> sale",
+            "color": "#333333",
+            "font_size": 18,
+            "font_size_mobile": 18,
+            "line_height": "23.8px",
+            "font_style": "none",
+            "margin_bottom": 19,
+            "margin_bottom_mobile": 19
+          }
+        },
+        "compare_at_price_Ri3pQx": {
+          "type": "compare_at_price",
+          "settings": {
+            "color": "#c0c0c0",
+            "font_size": 18,
+            "font_size_mobile": 18,
+            "line_height": "23.8px",
+            "font_weight": "400",
+            "font_style": "line-through",
+            "margin_bottom": 16,
+            "margin_bottom_mobile": 16
+          }
+        },
+        "price_eT4cdf": {
+          "type": "price",
+          "settings": {
+            "color": "#c19b61",
+            "font_size": 30,
+            "font_size_mobile": 30,
+            "line_height": "23.8px",
+            "font_weight": "600",
+            "font_style": "none",
+            "margin_bottom": 35,
+            "margin_bottom_mobile": 35
+          }
+        },
+        "button_MXXrL8": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "font_size": 22,
+            "font_size_mobile": 22,
+            "line_height": "23.8px",
+            "border_radius": 5,
+            "width": "",
+            "pt_pb": 19,
+            "pl_pr": 23,
+            "pt_pb_mobile": 19,
+            "pl_pr_mobile": 23,
+            "margin_bottom": 0,
+            "margin_bottom_mobile": 25
+          }
+        }
+      },
+      "block_order": [
+        "text_with_image_7FGV4q",
+        "text_with_image_gfbddU",
+        "text_with_image_HBTneq",
+        "text_with_image_VrNf8w",
+        "text_with_image_WHMjqX",
+        "html_wiDyQ6",
+        "compare_at_price_Ri3pQx",
+        "price_eT4cdf",
+        "button_MXXrL8"
+      ],
+      "name": "Product with List",
+      "settings": {
+        "product": "sri-dryq",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "sale_grid_max_width": "360px",
+        "sale_grid_max_width_mobile": "360px",
+        "list_grid_max_width": "57%",
+        "list_grid_max_width_mobile": "360px",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_top_mobile": 36,
+        "padding_bottom_mobile": 36
+      }
+    },
+    "rolling_text_images_YTPaFF": {
+      "type": "rolling-text-images",
+      "blocks": {
+        "image_MWhVGQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1.png"
+          }
+        },
+        "image_AriG9P": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/2.jpg"
+          }
+        },
+        "image_KYgYL8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3.jpg"
+          }
+        },
+        "image_eXaEHN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.jpg"
+          }
+        },
+        "image_6BtDqt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.jpg"
+          }
+        },
+        "image_WVPFHU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/6.jpg"
+          }
+        },
+        "image_8dazTT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/7.jpg"
+          }
+        },
+        "image_mnbqEz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/8.jpg"
+          }
+        },
+        "image_F7tVQJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/5.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "image_MWhVGQ",
+        "image_AriG9P",
+        "image_KYgYL8",
+        "image_eXaEHN",
+        "image_6BtDqt",
+        "image_WVPFHU",
+        "image_8dazTT",
+        "image_mnbqEz",
+        "image_F7tVQJ"
+      ],
+      "name": "Marquee",
+      "settings": {
+        "heading": "Over 100,000 sold",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_mt": 0,
+        "heading_mt_mobile": 0,
+        "heading_mb": 53,
+        "heading_mb_mobile": 42,
+        "font_size": "",
+        "font_size_mobile": "",
+        "text_color": "#000000",
+        "image_width": 150,
+        "image_height": 150,
+        "image_width_mobile": 150,
+        "image_height_mobile": 150,
+        "image_br": 2,
+        "speed": 30,
+        "gap": 25,
+        "gap_mobile": 25,
+        "section_pt": 40,
+        "section_pb": 40,
+        "section_pt_mobile": 50,
+        "section_pb_mobile": 40
+      }
+    },
+    "rich_text_xXeBzR": {
+      "type": "rich-text",
+      "blocks": {
+        "text_gXxyNP": {
+          "type": "text",
+          "settings": {
+            "text": "Over",
+            "color": "#333333",
+            "font_size": 16,
+            "font_size_mobile": 14,
+            "font_weight": "400",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "center",
+            "vertical_alignment_mobile": "middle"
+          }
+        },
+        "heading_tJV9qi": {
+          "type": "heading",
+          "settings": {
+            "heading": "90%",
+            "color": "#c19b61",
+            "font_size": 36,
+            "font_size_mobile": 36,
+            "font_weight": "600",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "center",
+            "vertical_alignment_mobile": "middle"
+          }
+        },
+        "text_ryRQ87": {
+          "type": "text",
+          "settings": {
+            "text": "of consumers saw their dry time cut by",
+            "color": "#333333",
+            "font_size": 16,
+            "font_size_mobile": 14,
+            "font_weight": "400",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "center",
+            "vertical_alignment_mobile": "middle"
+          }
+        },
+        "heading_AMcY4N": {
+          "type": "heading",
+          "settings": {
+            "heading": "25%",
+            "color": "#c19b61",
+            "font_size": 36,
+            "font_size_mobile": 36,
+            "font_weight": "600",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "center",
+            "vertical_alignment_mobile": "middle"
+          }
+        },
+        "text_TBXL8B": {
+          "type": "text",
+          "settings": {
+            "text": "or more!",
+            "color": "#333333",
+            "font_size": 16,
+            "font_size_mobile": 14,
+            "font_weight": "400",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "left",
+            "vertical_alignment_mobile": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "text_gXxyNP",
+        "heading_tJV9qi",
+        "text_ryRQ87",
+        "heading_AMcY4N",
+        "text_TBXL8B"
+      ],
+      "custom_css": [],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "content_style": "inline",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "blocks_wrapper_container": "700px",
+        "border_color": "#bebebe",
+        "border_size": 1,
+        "gap": 15,
+        "gap_mobile": 5,
+        "blocks_wrapper_pl": 55,
+        "blocks_wrapper_pr": 55,
+        "blocks_wrapper_pt": 20,
+        "blocks_wrapper_pb": 20,
+        "blocks_wrapper_pl_mobile": 10,
+        "blocks_wrapper_pr_mobile": 10,
+        "blocks_wrapper_pt_mobile": 20,
+        "blocks_wrapper_pb_mobile": 20,
+        "section_pt": 0,
+        "section_pb": 12,
+        "section_pt_mobile": 0,
+        "section_pb_mobile": 12
+      }
+    },
+    "rich_text_HThdUW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_EPXyB3": {
+          "type": "heading",
+          "settings": {
+            "heading": "85%",
+            "color": "#c19b61",
+            "font_size": 36,
+            "font_size_mobile": 36,
+            "font_weight": "600",
+            "horizontal_alignment": "center",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "center",
+            "vertical_alignment_mobile": "middle"
+          }
+        },
+        "text_YbCXWh": {
+          "type": "text",
+          "settings": {
+            "text": "of participants felt the SRI DryQ doesn’t damage their hair like other hair dryers.",
+            "color": "#333333",
+            "font_size": 16,
+            "font_size_mobile": 14,
+            "font_weight": "400",
+            "horizontal_alignment": "left",
+            "vertical_alignment": "middle",
+            "horizontal_alignment_mobile": "left",
+            "vertical_alignment_mobile": "middle"
+          }
+        }
+      },
+      "block_order": [
+        "heading_EPXyB3",
+        "text_YbCXWh"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "content_style": "inline",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "blocks_wrapper_container": "700px",
+        "border_color": "#bebebe",
+        "border_size": 1,
+        "gap": 30,
+        "gap_mobile": 20,
+        "blocks_wrapper_pl": 55,
+        "blocks_wrapper_pr": 55,
+        "blocks_wrapper_pt": 20,
+        "blocks_wrapper_pb": 20,
+        "blocks_wrapper_pl_mobile": 10,
+        "blocks_wrapper_pr_mobile": 10,
+        "blocks_wrapper_pt_mobile": 20,
+        "blocks_wrapper_pb_mobile": 20,
+        "section_pt": 0,
+        "section_pb": 42,
+        "section_pt_mobile": 0,
+        "section_pb_mobile": 42
+      }
+    },
+    "multirow2_bEXX9H": {
+      "type": "multirow2",
+      "blocks": {
+        "row_pytnUQ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reason_1.png",
+            "caption": "",
+            "heading": "<strong>1. Cut Down Drying Time with Ionic & Infrared Combo<\/strong>",
+            "text": "<p>Infrared and ionic tech target the inside and outside of the hair cuticle. This means you can dry your hair faster, without putting those gorgeous strands at risk! Infrared technology uses a gentle heat that dries your hair from the inside out. This helps reduce drying time and the risk of overheating. <br\/><br\/>At the same time, ionic technology emits negative ions that break down water molecules on the hair’s surface for quicker drying. This powerful combination supports fast, healthy drying.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_gd6Rpt": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reason_2.png",
+            "caption": "",
+            "heading": "<strong>2. Minimize Heat Damage with Gentle Heat<\/strong>",
+            "text": "<p>Traditional hair dryers blow harsh, high heat that your hair cuticles simply can’t handle. When exposed to these high temperatures, the moisture in the hair shaft can turn into steam. This steam creates tiny bubbles inside the hair cuticle that leaves your hair prone to breakage and split ends. <br\/><br\/>This is why the DryQ has Infrared technology, so you have a <strong>gentle, but powerful <\/strong>heat that works that actually benefits your hair.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_WgWVG6": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reason_3.png",
+            "caption": "",
+            "heading": "<strong>3. DryQ Technology Helps Nourish Dry, Brittle Hair<\/strong>",
+            "text": "<p>Your <strong>hair retains healthy moisture<\/strong> with the DryQ’s infrared and ionic technology. The infrared technology gently heats hair from within, while the negative ions seal the cuticle. This combination helps lock in hydration to keep your hair soft, smooth, and frizz-free. <br\/><br\/>This dual action not only promotes healthier, shinier hair but also prevents the dryness that leads to frizz, brittleness, and breakage.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_tjLFAX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reason_4.png",
+            "caption": "",
+            "heading": "<strong>4. Smooth Frizz with Negative Ions<\/strong>",
+            "text": "<p>Negative ions help you maintain smooth, frizz-free hair. Healthy hair cuticles lay flat, like shingles on a roof, keeping your hair smooth and shiny. But when exposed to humidity, dryness, or damage, the cuticles lift, allowing moisture in that creates frizz. <br\/><br\/>This lifted cuticle creates a rough texture, making hair appear dull and unruly. The DryQ keeps your hair cuticles smooth, so you can maintain a glossy, frizz-free style.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_VJFgwP": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/reason_5.png",
+            "caption": "<p><em>1. Based on the consumer study results of 35 females conducted by ASL Pharmaceutical, an internationally-recognized lab for safety and efficacy testing.<\/em><\/p><p><em><strong>Other Sources<\/strong><\/em><\/p><ul><li><em>Yang K, Tang Y, Ma Y, Liu Q, Huang Y, Zhang Y, Shi X, Zhang L, Zhang Y, Wang J, Zhu Y, Liu W, Tan Y, Lin J, Wu W. Hair Growth Promoting Effects of 650 nm Red Light Stimulation on Human Hair Follicles and Study of Its Mechanisms via RNA Sequencing Transcriptome Analysis. Ann Dermatol. 2021 Dec;33(6):553-561. doi: 10.5021\/ad.2021.33.6.553. Epub 2021 Nov 4. PMID: 34858007; PMCID: PMC8577899.<\/em><\/li><li><em>Collin, R. W., & Field, L. (2021). Thermal styling: A look at hair shaft deficiencies. The Cosmetic Chemist. Retrieved from.<\/em><\/li><\/ul>",
+            "heading": "<strong>5. Combat Thinning Hair with Red Light Technology<\/strong>",
+            "text": "<p>The <strong>DryQ helps thinning hair<\/strong> with 650 nanometers of infrared light (the optimal wavelength referenced in studies). The infrared light helps stimulate hair growth by increasing blood circulation to the scalp, reducing inflammation, and boosting cellular activity in hair follicles. <br\/><br\/>This helps your hair grow thicker and stronger by keeping follicles healthy. This extends the time your hair stays in the growth phase.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_pytnUQ",
+        "row_gd6Rpt",
+        "row_WgWVG6",
+        "row_tjLFAX",
+        "row_VJFgwP"
+      ],
+      "name": "Multirow 2",
+      "settings": {
+        "heading": "5 Reasons You’ll Love the DryQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "horizontal_alignment": "center",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "block_gap": 70,
+        "block_grid_gap": 65,
+        "block_gap_mobile": 45,
+        "block_grid_gap_mobile": 20,
+        "image_layout": "align-left",
+        "image_width": "315px",
+        "image_height": "315px",
+        "image_width_mobile": "307px",
+        "image_height_mobile": "307px",
+        "heading_fs": 22,
+        "heading_fs_mobile": 22,
+        "heading_lh": "38px",
+        "heading_pb": 18,
+        "heading_pb_mobile": 18,
+        "text_fs": 18,
+        "text_fs_mobile": 18,
+        "text_lh": "35px",
+        "caption_fs": 10,
+        "caption_fs_mobile": 10,
+        "caption_lh": "25px",
+        "section_color_scheme": "scheme-2",
+        "row_color_scheme": "scheme-3",
+        "padding_top": 45,
+        "padding_bottom": 45
+      }
+    },
+    "image_with_text_6d3dc4": {
+      "type": "image-with-text",
+      "custom_css": [
+        ".image-with-text__text-item {display: none;}",
+        ".image-with-text__media {width: 100%; height: auto; padding: 0 !important;}",
+        ".media > img {position: unset; width: 100%; height: auto; border: 0; box-shadow: unset; padding: 0;}"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/reviews_section.png",
+        "image_mobile": "shopify:\/\/shop_images\/reviews_mobile.png",
+        "height": "adapt",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_product_Up6QYN": {
+      "type": "image-with-product",
+      "blocks": {
+        "html_dJwGFb": {
+          "type": "html",
+          "settings": {
+            "text": "Limited Time \n<br><b style=\"font-weight: 600;\">VALENTINE’S DAY<\/b> sale",
+            "color": "#333333",
+            "font_size": 18,
+            "font_size_mobile": 18,
+            "line_height": "23.8px",
+            "font_style": "none",
+            "margin_bottom": 20,
+            "margin_bottom_mobile": 19
+          }
+        },
+        "compare_at_price_qhpxVe": {
+          "type": "compare_at_price",
+          "settings": {
+            "color": "#c0c0c0",
+            "font_size": 18,
+            "font_size_mobile": 18,
+            "line_height": "23.8px",
+            "font_weight": "400",
+            "font_style": "line-through",
+            "margin_bottom": 17,
+            "margin_bottom_mobile": 16
+          }
+        },
+        "price_xzUAyq": {
+          "type": "price",
+          "settings": {
+            "color": "#c19b61",
+            "font_size": 30,
+            "font_size_mobile": 30,
+            "line_height": "23.8px",
+            "font_weight": "600",
+            "font_style": "none",
+            "margin_bottom": 38,
+            "margin_bottom_mobile": 35
+          }
+        },
+        "button_ycLEtq": {
+          "type": "button",
+          "settings": {
+            "button_label": "Order Now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "font_size": 22,
+            "font_size_mobile": 22,
+            "line_height": "23.8px",
+            "border_radius": 5,
+            "width": "",
+            "pt_pb": 19,
+            "pl_pr": 23,
+            "pt_pb_mobile": 19,
+            "pl_pr_mobile": 23,
+            "margin_bottom": 0,
+            "margin_bottom_mobile": 0
+          }
+        }
+      },
+      "block_order": [
+        "html_dJwGFb",
+        "compare_at_price_qhpxVe",
+        "price_xzUAyq",
+        "button_ycLEtq"
+      ],
+      "name": "Image with Product",
+      "settings": {
+        "product": "sri-dryq",
+        "image": "shopify:\/\/shop_images\/limited_time_sale_image.png",
+        "image_width": "265px",
+        "image_height": "260px",
+        "image_width_mobile": "214px",
+        "image_height_mobile": "214px",
+        "image_roundness": 20,
+        "image_margin_bottom": 0,
+        "image_margin_bottom_mobile": 30,
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "mobile_content_alignment": "center",
+        "image_grid_max_width": "265px",
+        "image_grid_max_width_mobile": "265px",
+        "content_grid_max_width": "49%",
+        "content_grid_max_width_mobile": "550px",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-4",
+        "padding_top": 36,
+        "padding_bottom": 84
+      }
+    },
+    "1755275850050c13ae": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_c96a871_RA7Le7": {
+          "type": "ai_gen_block_c96a871",
+          "settings": {
+            "end_date": "2025-12-31",
+            "end_time": "23:59",
+            "show_days": true,
+            "show_hours": true,
+            "show_minutes": true,
+            "show_seconds": true,
+            "title": "Limited Time Offer",
+            "subtitle": "Sale ends in",
+            "days_label": "Days",
+            "hours_label": "Hours",
+            "minutes_label": "Minutes",
+            "seconds_label": "Seconds",
+            "expired_message": "Sale has ended",
+            "card_background": "#585858",
+            "border_radius": 12,
+            "padding": 32,
+            "title_color": "#1a1a1a",
+            "title_size": 24,
+            "subtitle_color": "#666666",
+            "subtitle_size": 16,
+            "expired_color": "#d32f2f",
+            "expired_size": 18,
+            "unit_background": "#f8f9fa",
+            "unit_border_color": "#e9ecef",
+            "unit_border_width": 1,
+            "unit_border_radius": 8,
+            "unit_padding": 16,
+            "unit_min_width": 80,
+            "unit_spacing": 16,
+            "number_color": "#1a1a1a",
+            "number_size": 32,
+            "label_color": "#666666",
+            "label_size": 12
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_c96a871_RA7Le7"
+      ],
+      "disabled": true,
+      "settings": {}
+    },
+    "collapsible_content_eEwdCD": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_gUrTaP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What makes the SRI DryQ better than a traditional hair dryer?",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bWyjn3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use the DryQ everyday?",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_7q4YLW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Will the DryQ really help with frizz?",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_RFk3dj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What makes the DryQ a “smart” hair dryer?",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_ibAtY8": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What happens if i’m not happy with the DryQ?",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_gUrTaP",
+        "collapsible_row_bWyjn3",
+        "collapsible_row_7q4YLW",
+        "collapsible_row_RFk3dj",
+        "collapsible_row_ibAtY8"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "<strong>Frequently Asked Questions<\/strong>",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "container_color_scheme": "scheme-8dc459bd-55ff-4c4c-aa2e-56435d6526c9",
+        "color_scheme": "scheme-5f89c870-306a-481b-8e3b-fc5765b43781",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 56,
+        "padding_bottom": 56
+      }
+    }
+  },
+  "order": [
+    "hero_banner_frhFjr",
+    "featured_product2_L8E8KC",
+    "17552781723dcce2e9",
+    "product_with_list_ayqNUP",
+    "rolling_text_images_YTPaFF",
+    "rich_text_xXeBzR",
+    "rich_text_HThdUW",
+    "multirow2_bEXX9H",
+    "image_with_text_6d3dc4",
+    "image_with_product_Up6QYN",
+    "1755275850050c13ae",
+    "collapsible_content_eEwdCD"
+  ]
+}
